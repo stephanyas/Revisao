@@ -1,0 +1,14 @@
+D:\Stephany\Repositorio\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+D:\Stephany\Repositorio\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+D:\Stephany\Repositorio\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+D:\Stephany\Repositorio\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+D:\Stephany\Repositorio\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+D:\Stephany\Repositorio\Revisao\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+D:\Stephany\Repositorio\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.AssemblyReference.cache
+D:\Stephany\Repositorio\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stephany\Repositorio\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+D:\Stephany\Repositorio\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+D:\Stephany\Repositorio\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+D:\Stephany\Repositorio\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+D:\Stephany\Repositorio\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+D:\Stephany\Repositorio\Revisao\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
